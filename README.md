@@ -14,7 +14,7 @@ Algorithmic Trading using Machine Learning
 
 ![blob3 original](https://user-images.githubusercontent.com/117589787/224199772-38ed89c7-f1f7-499e-b9d9-ce1cf13b6df0.jpg)
 
-**original output short window 4, long window 100, ending 6 months**
+**original output short window 4, long window 100, ending 3 months**
 
 ![blob4](https://user-images.githubusercontent.com/117589787/224200140-94849666-1dbd-4662-b50b-d0a7f0cd4453.jpg)
 
