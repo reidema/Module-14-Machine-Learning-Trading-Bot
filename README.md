@@ -45,3 +45,6 @@ What we can see from the charts is that the biggest difference was made in the i
 
 ![blob4](https://user-images.githubusercontent.com/117589787/224200140-94849666-1dbd-4662-b50b-d0a7f0cd4453.jpg)
 
+What we can see that is that changing and the SMA and/or the month ending cut off as shown in the graphs above gives us a higher actual return showing the height of the graph at 1.8 as opposed to 1.4 from original benchmarked algorithm. 
+
+When we include the logistic regression model we also dont see as much of an increase in the returns, only by adjusting the cut off end date and the SMA windows do we see the biggest changes
