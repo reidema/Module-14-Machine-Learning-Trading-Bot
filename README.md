@@ -41,3 +41,7 @@ What we can see from the charts is that the biggest difference was made in the i
 
 ![blob4](https://user-images.githubusercontent.com/117589787/224200140-94849666-1dbd-4662-b50b-d0a7f0cd4453.jpg)
 
+**Logistic Regression Output**
+
+![blob4](https://user-images.githubusercontent.com/117589787/224200140-94849666-1dbd-4662-b50b-d0a7f0cd4453.jpg)
+
